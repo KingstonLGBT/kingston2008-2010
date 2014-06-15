@@ -1,0 +1,3 @@
+[16-Sep-2009 20:02:55] PHP Fatal error:  Cannot redeclare sqlconnect() (previously declared in /home/kingston/public_html/development/functions.php:4) in /home/kingston/public_html/development/functions.php on line 11
+[04-Oct-2009 17:32:48] PHP Warning:  get_html_translation_table() expects parameter 1 to be long, string given in /home/kingston/public_html/development/events/index.php on line 157
+[04-Oct-2009 17:32:48] PHP Warning:  get_html_translation_table() expects parameter 1 to be long, string given in /home/kingston/public_html/development/events/index.php on line 157

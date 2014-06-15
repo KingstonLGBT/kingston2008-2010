@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /gallery
+Disallow: /forum
+Disallow: /maillist
+Disallow: /feedback

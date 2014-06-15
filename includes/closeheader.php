@@ -1,0 +1,2 @@
+</head><body onload="scrollsetup();curverycorners('', '', '', '', '', Array('award','navigationarea','mainarea','exitbox','customizebox','incompatable','twitterbox','facebookbox'<?php if(admin()) print(",'adminbox'") ?>));curverycorners('0', '10', '10', '10', '10', Array('submenu'));changeimage();">
+<div id="background"><img src="/images/body/background.jpg" alt="Background image"/></div>

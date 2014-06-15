@@ -1,0 +1,16 @@
+.committee{
+    border: solid 1px #AAAAAA;
+    border-collapse:collapse;
+    margin-bottom:10px;
+    width:100%;
+}
+
+.committee td{
+    padding:10px 0px 10px 0px;
+}
+
+.committee_pic{
+    padding-right:5px;
+    max-height:200px;
+    max-width:200px;
+}

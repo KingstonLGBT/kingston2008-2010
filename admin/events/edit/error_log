@@ -1,0 +1,1 @@
+[29-Sep-2009 20:23:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kingston/public_html/development/admin/events/edit/index.php on line 10
